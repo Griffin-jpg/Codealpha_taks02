@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product_name,category,price,quantity,discount_percent,total_amount,payment_method,customer_region,customer_age,customer_gender,shipping_cost,days_to_deliver,review_rating,satisfaction_level,purchase_channel
+ORD_001,CUST_001,2024-01-15,Wireless Headphones,Electronics,89.99,1,0.10,80.99,credit_card,North America,34,Male,5.99,3,4.5,Very Satisfied,Online
+ORD_002,CUST_002,2024-01-16,Bluetooth Speaker,Electronics,79.99,2,0.05,151.99,debit_card,Europe,28,Female,7.50,4,4.8,Satisfied,Mobile App
+ORD_003,CUST_003,2024-01-17,Running Shoes,Sports,129.99,1,0.15,110.99,paypal,North America,42,Male,8.00,2,4.2,Satisfied,Online
+ORD_004,CUST_004,2024-01-18,Smartphone Case,Electronics,29.99,3,0.00,89.97,credit_card,Asia Pacific,31,Female,4.99,5,3.8,Neutral,Online
+ORD_005,CUST_005,2024-01-19,Novel Collection,Books,79.99,1,0.20,63.99,debit_card,North America,25,Female,3.99,4,4.9,Very Satisfied,Mobile App
+ORD_006,CUST_006,2024-01-20,Winter Jacket,Clothing,199.99,1,0.10,179.99,cash_on_delivery,Europe,38,Male,12.00,6,2.1,Dissatisfied,Website
+ORD_007,CUST_007,2024-01-21,Coffee Maker,Home & Garden,149.99,1,0.12,131.99,credit_card,North America,45,Female,6.50,3,4.7,Satisfied,Online
+ORD_008,CUST_008,2024-01-22,Tablet Device,Electronics,399.99,1,0.08,367.99,debit_card,South America,29,Male,15.00,7,3.5,Neutral,Mobile App

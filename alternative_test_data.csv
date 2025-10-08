@@ -1,0 +1,20 @@
+customer_id,sales_date,product_category,product_price,quantity_purchased,discount_applied,total_sale,age_group,gender,city,days_since_last_purchase,rating_given,loyalty_points,payment_type,shipping_method
+CUST_1001,2024-11-15,Electronics,899.99,1,5.00,854.99,25-34,Male,New York,7,4.8,250,credit_card,standard
+CUST_1002,2024-11-16,Clothing,150.00,2,15.00,255.00,35-44,Female,Los Angeles,3,4.2,150,paypal,express
+CUST_1003,2024-11-17,Home & Kitchen,299.99,1,0.00,299.99,45-54,Female,Chicago,14,3.9,200,debit_card,standard
+CUST_1004,2024-11-18,Sports & Outdoors,120.00,3,12.00,336.00,18-24,Male,Houston,1,4.1,100,cash_on_delivery,express
+CUST_1005,2024-11-19,Books,75.99,1,7.60,70.59,35-44,Male,Phoenix,21,4.7,175,credit_card,standard
+CUST_1006,2024-11-20,Electronics,549.99,2,27.50,1032.48,55-64,Female,Philadelphia,8,4.0,300,paypal,express
+CUST_1007,2024-11-21,Clothing,85.00,1,0.00,85.00,25-34,Male,San Antonio,0,5.0,50,cash_on_delivery,standard
+CUST_1008,2024-11-22,Home & Kitchen,199.99,1,10.00,179.99,45-54,Female,San Diego,5,3.8,150,debit_card,express
+CUST_1009,2024-11-23,Sports & Outdoors,75.50,4,22.65,249.85,18-24,Male,Dallas,12,4.3,125,credit_card,standard
+CUST_1010,2024-11-24,Books,45.00,2,9.00,81.00,35-44,Female,San Jose,2,4.9,200,paypal,express
+CUST_1011,2024-11-25,Electronics,1299.99,1,64.99,1234.99,55-64,Male,Austin,15,3.7,400,credit_card,standard
+CUST_1012,2024-11-26,Clothing,220.00,1,22.00,198.00,45-54,Female,Jacksonville,9,4.4,175,debit_card,express
+CUST_1013,2024-11-27,Home & Kitchen,89.99,2,8.99,171.99,25-34,Male,Fort Worth,4,4.2,125,cash_on_delivery,standard
+CUST_1014,2024-11-28,Sports & Outdoors,250.00,1,0.00,250.00,35-44,Female,Columbus,18,4.6,300,paypal,express
+CUST_1015,2024-11-29,Books,125.99,1,12.60,113.39,55-64,Male,Charlotte,6,4.8,250,credit_card,standard
+CUST_1016,2024-11-30,Electronics,449.99,1,22.50,427.49,18-24,Female,Indianapolis,11,3.9,150,debit_card,express
+CUST_1017,2024-12-01,Clothing,65.00,3,13.00,171.00,45-54,Male,San Francisco,0,4.5,100,cash_on_delivery,standard
+CUST_1018,2024-12-02,Home & Kitchen,349.99,1,17.50,332.49,35-44,Female,Seattle,7,4.1,225,paypal,express
+CUST_1019,2024-12-03,Sports & Outdoors,95.00,2,14.25,165.75,25-34,Male,Denver,13,4.3,150,credit_card,standard
